@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
 | ------- |
