@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0152-maximum-product-subarray) |
+| [0704-binary-search](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
