@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0724-find-pivot-index) |
 | [2643-row-with-maximum-ones](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/2643-row-with-maximum-ones) |
 ## Two Pointers
 |  |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
