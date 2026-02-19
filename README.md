@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1507-reformat-date](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1507-reformat-date) |
 | [3713-longest-balanced-substring-i](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
