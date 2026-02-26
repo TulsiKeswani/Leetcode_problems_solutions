@@ -34,10 +34,8 @@ class Solution {
        
         while(low <= high){
             int mid = low + (high - low) / 2;
-            System.out.println(mid);
             if(isPossible(bloomDay,mid,m, k)){
                 ans = mid;
-                System.out.println(mid);
                 high=mid-1;
             }
             else{
