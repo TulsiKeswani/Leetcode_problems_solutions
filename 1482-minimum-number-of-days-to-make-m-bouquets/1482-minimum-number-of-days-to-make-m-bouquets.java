@@ -21,14 +21,17 @@ class Solution {
     public int minDays(int[] bloomDay, int m, int k) {
         int n = bloomDay.length;
         if(n < m * k) return -1;
-        int maxDays = 0;   // max possible days to make bukets
-        for(int i = 0; i < n; i++){
-            maxDays = Math.max(maxDays,bloomDay[i]);
-        }
-        System.out.println(maxDays);
-        int low = 1;
-        int high = maxDays;
+        int low = Integer.MAX_VALUE;  // minimum possible days;
+        int high = 0;   // max possible days to make bukets
         int ans = -1;
+
+        // find low and high
+        for(int i = 0; i < n; i++){
+            low = Math.min(low,bloomDay[i]);
+            high = Math.max(high,bloomDay[i]);
+        }
+        
+       
         while(low <= high){
             int mid = low + (high - low) / 2;
             System.out.println(mid);
