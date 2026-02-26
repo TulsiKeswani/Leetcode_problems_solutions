@@ -29,9 +29,6 @@ class Solution {
                 arr[i][left] = k;
                 k++;
             }
-            for(int i = 0; i < arr.length; i++){
-                System.out.println(Arrays.toString(arr[i]));
-            }
             top++;
             left++;
             right--;
