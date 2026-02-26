@@ -4,10 +4,7 @@ class Solution {
         int n = arr.length;
         int d = 0;
         for(int i = 0; i < n; i++){
-            if(arr[i] > m){
-                return false;
-            }
-            else if(capacity + arr[i] > m){
+            if(capacity + arr[i] > m){
                 d++;
                 capacity = arr[i];
                 
@@ -21,10 +18,10 @@ class Solution {
     }
     public int shipWithinDays(int[] weights, int days) {
         int high = 0;
-        int low = Integer.MAX_VALUE;
+        int low = -1;
         int ans = -1;
         for(int i = 0; i < weights.length; i++){
-            low = Math.min(low,weights[i]);
+            low = Math.max(low,weights[i]);
             high+=weights[i];
         }
 
