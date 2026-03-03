@@ -14,6 +14,7 @@ class Solution {
 
         return subA <= k;
     }
+    
     public int splitArray(int[] nums, int k) {
         long min = Long.MIN_VALUE;
         long max = 0;
@@ -25,9 +26,7 @@ class Solution {
         if(k == n) return (int)min;
 
         while(min <= max){
-            System.out.println("Hii");
             long mid = min + (max - min) / 2;
-            System.out.println(mid);
             if(isFormed(nums,k,mid)){
                 max = mid-1;
             }
