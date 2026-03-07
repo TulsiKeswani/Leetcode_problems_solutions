@@ -16,10 +16,10 @@ class Solution {
             // }
             // ans.add(str);
 
-            String str = i % 3 == 0 ? "Fizz" : "";
-            str += (i % 5 == 0 ? "Buzz" : "");
+            StringBuilder sb = new StringBuilder(i % 3 == 0 ? "Fizz" : "");
+            sb.append(i % 5 == 0 ? "Buzz" : "");
 
-            ans.add(str.equals("") ? str + i : str);
+            ans.add((sb.length() == 0 ? sb.append(i) : sb).toString());
         }
 
         return  ans;
