@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [3713-longest-balanced-substring-i](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/3713-longest-balanced-substring-i) |
 ## String
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Number Theory
 |  |
