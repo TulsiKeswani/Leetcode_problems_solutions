@@ -1,6 +1,5 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
-        int i = 0;
         int j = 0;
         int sum = 0;
         int ans = 0;
@@ -19,5 +18,7 @@ class Solution {
         }
 
         return ans;
+
+       
     }
 }
