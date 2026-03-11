@@ -22,7 +22,7 @@ class Solution {
         int j = 0;
         int ans = 0;
         int n = s.length();
-        int ch[] = new int[n];
+        int ch[] = new int[3];
 
         while(j < n){
             char c = s.charAt(j);
