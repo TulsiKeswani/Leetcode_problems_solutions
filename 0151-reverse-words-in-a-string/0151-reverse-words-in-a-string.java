@@ -6,7 +6,7 @@ class Solution {
         int n = s.length()-1;
         int j = n;
         int i = n;
-        for(; i>= 0; i--){
+        while(i >= 0) {
             if(s.charAt(i) == ' '){
                 ans.append(s.substring(i+1,j+1) + " ");
                 while(s.charAt(i) == ' '){
@@ -14,6 +14,7 @@ class Solution {
                 }
                 j = i;
             }
+            else i--;
         }
         ans.append(s.substring(i+1,j+1));
         return ans.toString();
