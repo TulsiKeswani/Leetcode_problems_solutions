@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0088-merge-sorted-array) |
+| [0389-find-the-difference](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0389-find-the-difference](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -196,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0912-sort-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
