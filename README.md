@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1507-reformat-date](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1507-reformat-date) |
+| [3110-score-of-a-string](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/3110-score-of-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
