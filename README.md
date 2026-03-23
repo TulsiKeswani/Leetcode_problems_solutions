@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0912-sort-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0344-reverse-string) |
+| [0881-boats-to-save-people](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0389-find-the-difference) |
+| [0881-boats-to-save-people](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0410-split-array-largest-sum) |
+| [0881-boats-to-save-people](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
