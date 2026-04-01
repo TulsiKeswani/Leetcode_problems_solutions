@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0152-maximum-product-subarray) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
