@@ -20,7 +20,6 @@ class Solution {
             isneg = s.charAt(0) == '-';
             i++;
         }
-        System.out.println(isneg);
         return myAtoiUtil(s.substring(i),0,isneg);
     }
     // public int myAtoi(String s) {
