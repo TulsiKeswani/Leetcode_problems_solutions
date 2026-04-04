@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1507-reformat-date](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1507-reformat-date) |
 | [1678-goal-parser-interpretation](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1678-goal-parser-interpretation) |
 | [3110-score-of-a-string](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/3110-score-of-a-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3713-longest-balanced-substring-i](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0389-find-the-difference) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Memoization
 |  |
 | ------- |
