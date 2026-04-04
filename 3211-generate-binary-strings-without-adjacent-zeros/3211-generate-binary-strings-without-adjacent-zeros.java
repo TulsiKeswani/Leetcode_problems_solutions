@@ -1,17 +1,36 @@
 class Solution {
-    public List<String> validStringsUtil(String curr, int n,List<String> l){
+    // Using StringBuilder
+
+     public List<String> validStringsUtil(StringBuilder curr, int n,List<String> l){
         if(n == 0){
-            l.add(curr);
+            l.add(curr.toString());
             return l;
         }
 
-        if(curr.charAt(curr.length() - 1) != '0')
-            validStringsUtil(curr + "0",n-1,l);
+        if(curr.charAt(curr.length() - 1) != '0'){
+            validStringsUtil(curr.append("0"),n-1,l);
+            curr.deleteCharAt(curr.length()-1);
+        }
 
-        validStringsUtil(curr + "1",n-1,l);
-
+        validStringsUtil(curr.append("1"),n-1,l);
+        curr.deleteCharAt(curr.length()-1);
         return l;
     }
+
+    // Using String
+    // public List<String> validStringsUtil(String curr, int n,List<String> l){
+    //     if(n == 0){
+    //         l.add(curr);
+    //         return l;
+    //     }
+
+    //     if(curr.charAt(curr.length() - 1) != '0')
+    //         validStringsUtil(curr + "0",n-1,l);
+
+    //     validStringsUtil(curr + "1",n-1,l);
+
+    //     return l;
+    // }
     public List<String> validStrings(int n) {
         // Using Recursion
 
@@ -48,8 +67,11 @@ class Solution {
 
         // bottom up recursion
         List<String> ans = new ArrayList<>();
-        validStringsUtil("1",n-1,ans);
-        validStringsUtil("0",n-1,ans);
+        // validStringsUtil("1",n-1,ans);
+        // validStringsUtil("0",n-1,ans);
+
+        validStringsUtil(new StringBuilder("1"),n-1,ans);
+        validStringsUtil(new StringBuilder("0"),n-1,ans);
 
         return ans;
 
