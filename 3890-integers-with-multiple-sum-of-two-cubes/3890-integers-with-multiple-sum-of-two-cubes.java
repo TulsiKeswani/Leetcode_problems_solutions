@@ -1,22 +1,30 @@
 class Solution {
-    public List<Integer> findGoodIntegers(int n) {
-        HashMap<Integer,Integer> map = new HashMap<>();
-        List<Integer> ans = new ArrayList<>();
+    static List<Integer> goodIntegers = new ArrayList<>();
 
-        for(int i = 1; i <= n; i++){
+    static {
+        int max = (int)Math.pow(10,3);
+        HashMap<Integer,Integer> map = new HashMap<>();
+        for(int i = 1; i <= max ; i++){
             int left = i*i*i;
-            if(left > n) break;
-            for(int j = i; j <=n; j++){
+            
+            for(int j = i; j <=max; j++){
                 int cube = left + j*j*j;
 
-                if(cube > n) break;
+                if(cube > Math.pow(10,9)) break;
                 map.put((cube),map.getOrDefault(cube,0)+1);
 
-                if(map.get(cube) == 2) ans.add(cube);
+                if(map.get(cube) == 2) goodIntegers.add(cube);
             }
         }
-        Collections.sort(ans);
+        Collections.sort(goodIntegers);
+    }
+    public List<Integer> findGoodIntegers(int n) {
+        List<Integer> ans = new ArrayList<>();
 
+        for(int val : goodIntegers){
+            if(val > n) break;
+            ans.add(val);
+        }
         return ans;
     }
 }
