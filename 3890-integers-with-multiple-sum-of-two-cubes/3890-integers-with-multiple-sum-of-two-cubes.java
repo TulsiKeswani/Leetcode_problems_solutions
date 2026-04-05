@@ -4,10 +4,10 @@ class Solution {
         List<Integer> ans = new ArrayList<>();
 
         for(int i = 1; i <= n; i++){
-            int left = (int)(Math.pow(i,3));
+            int left = i*i*i;
             if(left > n) break;
             for(int j = i; j <=n; j++){
-                int cube = left + (int)(Math.pow(j,3));
+                int cube = left + j*j*j;
 
                 if(cube > n) break;
                 map.put((cube),map.getOrDefault(cube,0)+1);
