@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> findGoodIntegers(int n) {
-        TreeMap<Integer,Integer> map = new TreeMap<>();
+        HashMap<Integer,Integer> map = new HashMap<>();
         List<Integer> ans = new ArrayList<>();
 
         for(int i = 1; i <= n; i++){
@@ -11,11 +11,11 @@ class Solution {
 
                 if(cube > n) break;
                 map.put((cube),map.getOrDefault(cube,0)+1);
+
+                if(map.get(cube) == 2) ans.add(cube);
             }
         }
-        for(Map.Entry<Integer,Integer> e : map.entrySet()){
-            if(e.getValue() >= 2) ans.add(e.getKey());
-        }
+        Collections.sort(ans);
 
         return ans;
     }
