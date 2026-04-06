@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0088-merge-sorted-array) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0389-find-the-difference) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Memoization
 |  |
