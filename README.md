@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0875-koko-eating-bananas) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0992-subarrays-with-k-different-integers) |
