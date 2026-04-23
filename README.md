@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0410-split-array-largest-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0704-binary-search) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0992-subarrays-with-k-different-integers) |
