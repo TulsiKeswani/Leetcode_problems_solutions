@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0179-largest-number) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0412-fizz-buzz) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0412-fizz-buzz) |
 ## Heap (Priority Queue)
 |  |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0389-find-the-difference) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
