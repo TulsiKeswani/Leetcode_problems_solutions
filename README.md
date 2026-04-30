@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0443-string-compression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1507-reformat-date](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1507-reformat-date) |
 | [1678-goal-parser-interpretation](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1678-goal-parser-interpretation) |
