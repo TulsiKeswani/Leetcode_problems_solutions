@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1922-count-good-numbers) |
@@ -262,12 +263,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0389-find-the-difference) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
