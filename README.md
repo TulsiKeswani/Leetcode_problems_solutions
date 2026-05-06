@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0179-largest-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0881-boats-to-save-people) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [3713-longest-balanced-substring-i](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0912-sort-an-array) |
 ## Prefix Sum
 |  |
@@ -246,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -254,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -303,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
