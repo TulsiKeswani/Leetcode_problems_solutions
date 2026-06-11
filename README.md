@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0242-valid-anagram) |
+| [0273-integer-to-english-words](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0389-find-the-difference) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0231-power-of-two) |
+| [0273-integer-to-english-words](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1922-count-good-numbers) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0231-power-of-two) |
+| [0273-integer-to-english-words](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0273-integer-to-english-words) |
 | [1922-count-good-numbers](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
