@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0412-fizz-buzz) |
+| [0593-valid-square](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0593-valid-square) |
 | [1248-count-number-of-nice-subarrays](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -322,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
