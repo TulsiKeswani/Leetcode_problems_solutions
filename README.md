@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2643-row-with-maximum-ones](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/2643-row-with-maximum-ones) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3713-longest-balanced-substring-i](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/3713-longest-balanced-substring-i) |
 ## String
 |  |
