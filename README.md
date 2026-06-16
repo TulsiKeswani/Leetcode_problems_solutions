@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1678-goal-parser-interpretation) |
 | [3110-score-of-a-string](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/3110-score-of-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3612-process-string-with-special-operations-i](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0412-fizz-buzz) |
+| [3612-process-string-with-special-operations-i](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
