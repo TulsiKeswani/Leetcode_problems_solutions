@@ -1,22 +1,24 @@
 class Solution {
-    public void getSubsets(int[] nums,int i, List<List<Integer>> l){
-        if(i == 0){
-            l.add(new ArrayList<>());
-            return;
-        }
-
-        getSubsets(nums,i-1,l);
-        List<List<Integer>> myAns = new ArrayList<>();
-        for(List<Integer> list : l){
-            myAns.add(new ArrayList<>(list));
-            myAns.get(myAns.size()-1).add(nums[i-1]);
-        }
-        l.addAll(myAns);
-    }
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
-        int n = nums.length;
-        getSubsets(nums,n,ans);
+
+        ans.add(new ArrayList<>());
+
+        for(int i = 0; i < nums.length; i++){
+            int val = nums[i];
+
+            List<List<Integer>> local = new ArrayList<>();
+            local.addAll(ans);
+
+            for(List<Integer> l : ans){
+                List<Integer> new_list = new ArrayList<>(l);
+                new_list.add(val);
+                local.add(new_list);
+            }
+
+            ans = local;
+        }
+
         return ans;
     }
 }
