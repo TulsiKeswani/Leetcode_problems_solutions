@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0724-find-pivot-index) |
+| [0789-escape-the-ghosts](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0789-escape-the-ghosts) |
 | [0875-koko-eating-bananas](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0896-monotonic-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0412-fizz-buzz) |
 | [0593-valid-square](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0593-valid-square) |
 | [0780-reaching-points](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0780-reaching-points) |
+| [0789-escape-the-ghosts](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0789-escape-the-ghosts) |
 | [1248-count-number-of-nice-subarrays](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
