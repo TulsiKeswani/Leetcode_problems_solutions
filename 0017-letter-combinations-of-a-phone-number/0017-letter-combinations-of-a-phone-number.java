@@ -5,8 +5,14 @@ class Solution {
         // Approach 1 -> With recursion
         // base case
 
-        if(digits.length() == 0){
-            return new ArrayList<>(Arrays.asList(""));
+        if(digits.length() == 1){
+           String curr = digit_map[digits.charAt(0) - '0'];
+           List<String> l = new ArrayList<>(Arrays.asList());
+
+           for(int i = 0; i < curr.length(); i++){
+                l.add(curr.charAt(i)+"");
+           }
+            return l;
         }
         List<String> smallAns = letterCombinations(digits.substring(1));
         List<String> myAns = new ArrayList<>();
