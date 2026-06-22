@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0443-string-compression) |
+| [1189-maximum-number-of-balloons](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1507-reformat-date](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1507-reformat-date) |
 | [1678-goal-parser-interpretation](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1678-goal-parser-interpretation) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3713-longest-balanced-substring-i](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
