@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0412-fizz-buzz) |
 | [0593-valid-square](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0593-valid-square) |
