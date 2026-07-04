@@ -7,10 +7,16 @@ class Solution {
         int n = mat.length - 1;
         for(int i = 0; i <=n; i++){
             sum+=mat[i][i];
-            sum+=mat[i][n-i];
+
+            if(i != n-i)
+                sum+=mat[i][n-i];
         }
 
-        return n % 2 != 0 ? sum : sum - mat[n/2][n/2];
+        // return n % 2 != 0 ? sum : sum - mat[n/2][n/2];
+
+        // second type return 
+
+        return sum;
 
 
         // Brute force Approach (n ^ 2)
