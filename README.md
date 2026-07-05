@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0031-next-permutation) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0179-largest-number) |
