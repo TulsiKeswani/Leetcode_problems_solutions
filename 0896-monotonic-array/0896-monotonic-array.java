@@ -10,6 +10,8 @@ class Solution {
             else if(nums[i] < nums[i+1]){
                 increasing = false;
             }
+
+            if( !increasing && !decreasing) return false;
         }
 
         return increasing || decreasing;
