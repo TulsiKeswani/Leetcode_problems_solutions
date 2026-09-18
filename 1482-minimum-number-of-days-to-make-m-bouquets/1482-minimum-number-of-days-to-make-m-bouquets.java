@@ -1,45 +1,43 @@
 class Solution {
-    public boolean isPossible(int arr[],int mid,int m, int k){
-        int i =0;
-        int j = 0;
-
-        while(j < arr.length){
-            if(arr[j] > mid){
-                i = j + 1;
+    public boolean isPossible(int arr[],int day,int m,int k){
+        int n = 0;
+        for(int i = 0; i < arr.length; i++){
+            if(arr[i] <= day){
+                n++;
             }
-            else if(j - i + 1 == k){
-                    i = j + 1;
-                    m--;
+            else{
+                n = 0;
+            }
+            if(n == k) {
+                m--;
+                n = 0;
             }
 
             if(m == 0) return true;
-            j++;
         }
 
-        return false;
+        return m <= 0;
     }
     public int minDays(int[] bloomDay, int m, int k) {
-        int n = bloomDay.length;
-        if(n < m * k) return -1;
-        int low = Integer.MAX_VALUE;  // minimum possible days;
-        int high = 0;   // max possible days to make bukets
-        int ans = -1;
+        if(m * k > bloomDay.length) return -1;
 
-        // find low and high
-        for(int i = 0; i < n; i++){
-            low = Math.min(low,bloomDay[i]);
-            high = Math.max(high,bloomDay[i]);
+        int min = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
+
+        for(int i=0; i < bloomDay.length; i++){
+            min = Math.min(min,bloomDay[i]);
+            max = Math.max(max,bloomDay[i]);
         }
-        
-       
-        while(low <= high){
-            int mid = low + (high - low) / 2;
-            if(isPossible(bloomDay,mid,m, k)){
+        int ans = -1;
+        while(min <= max){
+            int mid = min + (max - min)/2;
+
+            if(isPossible(bloomDay,mid,m,k)){
                 ans = mid;
-                high=mid-1;
+                max = mid-1;
             }
             else{
-                low=mid+1;
+                min = mid+1;
             }
         }
 
