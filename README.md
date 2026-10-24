@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0881-boats-to-save-people) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0707-design-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
