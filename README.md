@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1901-find-a-peak-element-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Number Theory
 |  |
 | ------- |
