@@ -7,14 +7,10 @@ class Solution {
         lmb[0] = height[0];
         rmb[n-1] = height[n-1];
 
-        // calculate leftMaxBoundary
+        // calculate leftMaxBoundary And rightMaxBoundary
         for(int i = 1; i < n; i++){
             lmb[i] = Math.max(height[i],lmb[i-1]);
-        }
-
-        // calculate rightMaxBoundary
-        for(int i = n-2; i >= 0; i--){
-            rmb[i] = Math.max(rmb[i+1],height[i]);
+            rmb[n-i-1] = Math.max(height[n-i-1],rmb[n-i]);
         }
 
         int totWater = 0;
