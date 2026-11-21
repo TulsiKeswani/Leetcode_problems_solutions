@@ -8,15 +8,12 @@ class Solution {
                 nums[i] = nums[j];
                 nums[j] = 0;
                 i++;
-                j++;
             }
-            else if(nums[i] == 0){
-                j++;
-            }
-            else{
+            else if(nums[i] != 0){
                 i++;
-                j++;
             }
+
+            j++;
         }
     }
 }
