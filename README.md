@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0056-merge-intervals) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0125-valid-palindrome) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0118-pascals-triangle) |
@@ -396,4 +399,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0707-design-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
