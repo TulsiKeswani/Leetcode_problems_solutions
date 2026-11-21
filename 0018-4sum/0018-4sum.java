@@ -20,33 +20,68 @@ class Solution {
         // return new ArrayList(ans);
 
 
-        HashSet<List<Integer>> ans = new HashSet<>();
+        // HashSet<List<Integer>> ans = new HashSet<>();
 
+        // for(int i = 0; i < nums.length-3; i++){
+        //     for(int j = i+1; j < nums.length-2; j++){
+        //         HashSet<Long> s = new HashSet<>();
+
+        //         for(int k = j+1; k < nums.length; k++){
+        //             long l = target - (nums[i] + nums[j] + nums[k] * 1L);
+        //             if(s.contains(l)){
+        //                 ArrayList<Integer> list = new ArrayList(Arrays.asList(
+        //                     nums[i],
+        //                     nums[j],
+        //                     nums[k],
+        //                     (int)l
+        //                 ));
+
+        //                 Collections.sort(list);
+
+        //                 ans.add(list);
+        //             }
+
+        //             s.add(nums[k] * 1L);
+        //         }
+        //     }
+        // }
+
+        // return new ArrayList(ans);
+
+
+        Arrays.sort(nums);
+        List<List<Integer>> ans = new ArrayList<>();
         for(int i = 0; i < nums.length-3; i++){
-            for(int j = i+1; j < nums.length-2; j++){
-                HashSet<Long> s = new HashSet<>();
+            if(i > 0 && nums[i] == nums[i-1]) continue;
+            for(int j = i+1; j < nums.length - 2; j++){
+                if(j > i+1 && nums[j] == nums[j-1]) continue;
+                int k = j+1;
+                int l = nums.length-1;
 
-                for(int k = j+1; k < nums.length; k++){
-                    long l = target - (nums[i] + nums[j] + nums[k] * 1L);
-                    if(s.contains(l)){
-                        ArrayList<Integer> list = new ArrayList(Arrays.asList(
+                while(k < l){
+                    long sum = nums[i] + nums[k] * 1L;
+                    sum+=(nums[j] * 1L + nums[l]);
+                    if(sum == target){
+                        ans.add(new ArrayList(Arrays.asList(
                             nums[i],
                             nums[j],
                             nums[k],
-                            (int)l
-                        ));
-
-                        Collections.sort(list);
-
-                        ans.add(list);
+                            nums[l]
+                        )));
+                        k++;
+                        l--;
+                        while(k < l && nums[k] == nums[k-1]) k++;
+                        while(l > k && nums[l] == nums[l+1]) l--;
                     }
-
-                    s.add(nums[k] * 1L);
+                    else if(sum < target){
+                        k++;
+                    }
+                    else{
+                        l--;
+                    }
                 }
             }
         }
-
-        return new ArrayList(ans);
-
+        return ans;
     }
 }
