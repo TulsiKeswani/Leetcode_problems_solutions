@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0053-maximum-subarray) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0347-top-k-frequent-elements) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0074-search-a-2d-matrix) |
