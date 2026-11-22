@@ -20,7 +20,6 @@ class Solution {
             }
         }
 
-        System.out.println(stidx);
         // calculate Last Occurence
         i = 0;
         j = nums.length-1;
