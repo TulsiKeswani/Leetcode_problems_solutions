@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0179-largest-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0410-split-array-largest-sum) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0724-find-pivot-index) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/TulsiKeswani/Leetcode_problems_solutions/tree/master/0707-design-linked-list) |
 ## Stack
 |  |
