@@ -1,23 +1,55 @@
 class Solution {
     public int trap(int[] height) {
-        int n = height.length;
-        int rmb[] = new int[n];
-        int leftMax = height[0];
+        // int n = height.length;
+        // int rmb[] = new int[n];
+        // int leftMax = height[0];
 
-        // calculate leftMaxBoundary And rightMaxBoundary
-        rmb[n-1] = height[n-1];
-        for(int i = n-2; i >= 0; i--){
-            rmb[i] = Math.max(height[i],rmb[i+1]);
+        // // calculate leftMaxBoundary And rightMaxBoundary
+        // rmb[n-1] = height[n-1];
+        // for(int i = n-2; i >= 0; i--){
+        //     rmb[i] = Math.max(height[i],rmb[i+1]);
+        // }
+
+        // int totWater = 0;
+        // // calculate water
+        // for(int i = 0; i < n; i++){
+        //     leftMax = Math.max(height[i],leftMax);
+        //     totWater+=(Math.min(rmb[i],leftMax) - height[i]);
+        // }
+
+        // return totWater;
+
+        int l = 0;
+        int r = height.length-1;
+        int waterStore = 0;
+        int leftMost = 0;
+        int rightMost = 0;
+        while(l <= r){
+            int lval = height[l];
+            int rval = height[r];
+
+            if(lval <= rval){
+                if(leftMost <= lval){
+                    leftMost = lval;
+                }
+                else{
+                    waterStore+=(leftMost - lval);
+                }
+
+                l++;
+            }
+            else{
+                if(rightMost <= rval){
+                    rightMost = rval;
+                }
+                else{
+                    waterStore+=(rightMost - rval);
+                }
+                r--;
+            }
         }
 
-        int totWater = 0;
-        // calculate water
-        for(int i = 0; i < n; i++){
-            leftMax = Math.max(height[i],leftMax);
-            totWater+=(Math.min(rmb[i],leftMax) - height[i]);
-        }
-
-        return totWater;
+        return waterStore;
     }
 }
 
