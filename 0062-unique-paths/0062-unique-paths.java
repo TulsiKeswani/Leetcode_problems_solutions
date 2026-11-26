@@ -1,29 +1,39 @@
 class Solution {
-    public int uniquePaths(int n, int m) {
-        // Recursion Solution
-        // if(n == 0 || m == 0){
-        //     return 0;
-        // }
-        // if(n == 1 && m == 1){
-        //     return 1;
-        // }
-        
-        // int hoz = uniquePaths(n,m-1);
-        // int ver = uniquePaths(n-1,m);
-        
-        // return hoz + ver;
+    
+    public int uniquePathsUtil(int i, int j, int m, int n){
+        if(i >= m || j >= n){
+            return 0;
+        }
 
-        // Dp version
-        int dp[][] = new int[n][m];
-        dp[n-1][m-1] = 1;
-        for(int i = n-1; i >= 0; i--){
-            for(int j = m-1; j >= 0; j--){
-                if(i == n-1 && j == m-1) continue;
-                int leftPaths = j == m-1 ? 0 : dp[i][j+1];
-                int downPaths = i == n-1 ? 0 : dp[i+1][j];
-                dp[i][j] = leftPaths + downPaths;
+        if( i == m-1 && j == n-1){
+            return 1;
+        }
+        int downPaths = uniquePathsUtil(i+1,j,m,n);
+        int rightPaths = uniquePathsUtil(i,j+1,m,n);
+        return downPaths + rightPaths;
+    }
+    public int uniquePaths(int m, int n) {
+        
+        // return uniquePathsUtil(0,0,m,n);
+
+        // dp approach 
+        int arr[][] = new int[m][n];
+
+        int i = m-1;
+        int j = n-1;
+        arr[i][j] = 1;
+        for(i = m-1; i >= 0; i--){
+            for(j=n-1; j >= 0; j--){
+                if(i == m-1 && j == n-1){
+                    arr[i][j] = 1;
+                    continue;
+                }
+                int right = j != n-1 ? arr[i][j+1] : 0;
+                int down =  i != m-1 ? arr[i+1][j] : 0;
+                arr[i][j] = down + right;
             }
         }
-        return dp[0][0];
+
+        return arr[0][0];
     }
 }
