@@ -19,11 +19,8 @@ class Solution {
         // dp approach 
         int arr[][] = new int[m][n];
 
-        int i = m-1;
-        int j = n-1;
-        arr[i][j] = 1;
-        for(i = m-1; i >= 0; i--){
-            for(j=n-1; j >= 0; j--){
+        for(int i = m-1; i >= 0; i--){
+            for(int j=n-1; j >= 0; j--){
                 if(i == m-1 && j == n-1){
                     arr[i][j] = 1;
                     continue;
